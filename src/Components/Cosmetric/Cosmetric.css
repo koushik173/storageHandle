@@ -1,0 +1,13 @@
+.product-container{
+    background-color: rgb(224, 242, 249);
+    padding: 30px;
+    margin-bottom: 20px;
+    color: rgb(24, 2, 110);
+}
+
+button{
+    background-color: rgb(148, 187, 174);
+    margin-left: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
